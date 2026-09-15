@@ -90,9 +90,6 @@ python pix_anomaly_detection.py
 
 API utilizada: `EstatisticasFraudesPix`
 
-## Autor
-
-**Ezequiel Gomes Rocha**
 
 [LinkedIn](https://www.linkedin.com/in/ezequielgomesrocha/)
 
