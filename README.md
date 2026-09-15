@@ -81,7 +81,7 @@ Python · pandas · requests · Plotly · API do Banco Central do Brasil
 
 ```bash
 pip install pandas requests plotly
-python pix_anomaly_detection.py
+python src/pix_anomaly_detection.py
 ```
 
 ## Fonte dos dados
